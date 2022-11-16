@@ -1,0 +1,92 @@
+body {
+    background-color: #000000;
+    background-image: url("imagen/bgbody.png");
+    color: #FFFFFF;
+}
+.cont-ppal {
+    margin: 0 auto;
+    width: 700px;
+}
+.header1, .header2 {
+    background-color: #FEFE55;
+    border: 1px solid #EE9900;
+    color: #559955;
+    font-family: georgia;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 0;
+    padding: 20px;
+    text-shadow: 2px 2px 3px #999999;
+    text-decoration: underline;
+}
+.modulo1, .modulo2 {
+    background-color: #FFFFFF;
+    border: 4px solid #DDDDDD;
+    color: #000000;
+    float: left;
+    margin: 10px 0;
+    padding: 15px;
+    width: 470px;
+}
+
+.menu1 a:hover, .menu2 a:hover {
+    color: #f50000;
+    border-left: 6px solid;
+    margin-left: 2px;
+    text-decoration: underline;
+    text-shadow: 2px 2px 2px #aaa;
+}
+.menu1 a, .menu2 a {
+    font-family: georgia;
+    font-size: 14px;
+    padding: 4px;
+    text-decoration: none;
+    color: #fa8800;
+    margin: 4px;
+    line-height: 22px;
+}
+.menu2 a{
+	color: #FEFE55;
+}
+.menu1, .menu2 {
+    background-color: #FEFE55;
+    border: 1px solid #EE9900;
+    float: left;
+    margin: 10px 0 10px 10px;
+    padding: 15px;
+    width: 150px;
+}
+.menu2{
+    background-color: #ff9900;
+    border: 1px solid #ffffff;
+	margin: 10px 10px 10px 0px
+}
+.footer1, .footer2 {
+    background-color: #FEFE55;
+    border: 1px solid #EE9900;
+    clear: both;
+    float: none;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+    color: #000;
+}
+.footer2 {
+    background-color: #ff9900;
+    border: 3px solid #ffffff;
+    color: #ffffff;
+}
+h3 {
+    margin: 10px 0px;
+    padding: 0px;
+    font-family: georgia;
+    font-size: 14px;
+    color: #000;
+    text-shadow: 2px 2px 2px #999;
+}
+.header2 {
+    background-color: #ff9900;
+    border: 3px solid #ffffff;
+    color: #ffffff;
+    text-shadow: 2px 2px 3px #000000;
+}
